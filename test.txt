@@ -3,3 +3,5 @@ test
 Zmiany w pliku
 
 Zmiany w pliku 2
+
+Zmiany w pliku 3
